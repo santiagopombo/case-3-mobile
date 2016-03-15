@@ -1,0 +1,12 @@
+@font-face {
+    font-family: OpenSansSemibold;
+    src: url('../font/OpenSans-Semibold.ttf') format('truetype'), url('../font/OpenSansSemibold.woff') format('woff'), url('../font/OpenSansSemibold.woff2') format('woff2');
+}
+@font-face {
+    font-family: OpenSansLight;
+    src: url('../font/OpenSans-Light.ttf') format('truetype'), url('../font/OpenSansLight.woff') format('woff'), url('../font/OpenSansLight.woff2') format('woff2');
+}
+@font-face {
+    font-family: OpenSansRegular;
+    src: url('../font/OpenSans-Regular.ttf') format('truetype'), url('../font/OpenSansRegular.woff') format('woff'), url('../font/OpenSansRegular.woff2') format('woff2');
+}

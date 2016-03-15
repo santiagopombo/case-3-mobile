@@ -1,6 +1,6 @@
 html,
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: OpenSansLight, sans-serif;
     font-weight: 400;
     font-size: 14px;
     border: 0;
@@ -41,7 +41,7 @@ input[type=file].g-hide,
 }
 .b-user__name {
     font-size: 0.857rem;
-    font-weight: 700;
+    font-family: OpenSansSemibold, sans-serif;
     margin-left: 5px;
 }
 
@@ -52,7 +52,7 @@ input[type=file].g-hide,
 }
 .b-logo__param {
     font-size: 0.857rem;
-    font-weight: 600;
+    font-family: OpenSansSemibold, sans-serif;
 }
 
 .b-heading {
@@ -62,9 +62,9 @@ input[type=file].g-hide,
 }
 
 .b-title {
-    font-size: 2.5rem;
+    font-size: 2.7rem;
     color: #fff;
-    font-weight: 600;
+    font-family: OpenSansRegular, sans-serif;
     margin: 0;
 }
 
@@ -90,6 +90,7 @@ input[type=file].g-hide,
     height: 30px;
     padding: 0 7px;
     float: right;
+    font-family: OpenSansRegular, sans-serif;
 }
 .b-form__input:focus {
     outline: none;
@@ -112,7 +113,7 @@ input[type=file].g-hide,
     font-size: 2rem;
     color: #fff;
     padding: 0 0 4px;
-    font-weight: 600;
+    font-family: OpenSansRegular, sans-serif;
     letter-spacing: 1px;
     outline: none;
 }
@@ -125,7 +126,7 @@ input[type=file].g-hide,
 }
 
 .b-file-link {
-    font-weight: 600;
+    font-family: OpenSansSemibold, sans-serif;
 }
 
 @media (min-width: 600px) {
