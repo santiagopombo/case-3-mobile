@@ -1,0 +1,7 @@
+applications:
+- name: case-3-mobile
+  mem: 128M
+  services:
+  stackato:
+    ignores:
+    - node_modules
