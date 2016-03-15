@@ -23,6 +23,7 @@ input[type=file].g-hide,
 
 .b-wrap {
     max-width: 600px;
+    border: 0px;
 }
 
 .b-header {
@@ -33,6 +34,7 @@ input[type=file].g-hide,
 .b-user {
     padding-left: 0;
     text-align: right;
+    padding-right: 0px;
 }
 .b-user__pic {
     width: 30px;
@@ -131,6 +133,15 @@ input[type=file].g-hide,
 
 @media (min-width: 600px) {
     .b-user {
-        padding-right: 0;
+        padding-right: 10px;
+    }
+
+    .b-wrap {
+        border: 2px solid black;
+        height: 100%;
+    }
+
+    html, body {
+        height: 100%;
     }
 }
