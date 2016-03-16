@@ -1,6 +1,6 @@
 applications:
 - name: case-3-mobile
-  mem: 64M
+  mem: 128M
   services:
   stackato:
     ignores:
