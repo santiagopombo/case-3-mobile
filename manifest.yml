@@ -1,7 +1,5 @@
 applications:
-- name: case-3-mobile
-  mem: 128M
-  services:
-  stackato:
-    ignores:
-    - node_modules
+- name: expense_app
+  host: expense_app
+  domain: 54.208.251.235.nip.io
+  
